@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Miao LEGRAND, 💻 a Data Analyst 
+## Hi there 👋 I'm Miao LEGRAND, 💻 A Data Analyst 
 
 #### 🛠 Tech Stack
 
