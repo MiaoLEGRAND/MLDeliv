@@ -4,7 +4,10 @@
 
 Here are some of the technologies I've worked with:
 
-  - **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Shell
+  - **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL((joins, aggregations, CTEs,
+subqueries, KPI analysis)), Excel (pivot tables, advanced
+formulas, data cleaning, reporting,
+and visualization)
   - **Databases**: MySQL Server, PostgreSQL, 
   - **Cloud Platforms**: GCP (Google Cloud Platform)
   - **Cloud Data Warehousing**: Google Big Query
