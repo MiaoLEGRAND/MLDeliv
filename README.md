@@ -11,7 +11,7 @@ and visualization)
   - **Databases**: MySQL Server, PostgreSQL, 
   - **Cloud Platforms**: GCP (Google Cloud Platform)
   - **Cloud Data Warehousing**: Google Big Query
-  - **Version Control**: Git, Github
+  - **Model development and data implementation - dbt & Github**: Google Big Query
   - **Documentation**: Confluence
   - **Project Management**: Jira
   - **Data Visualization/BI Tools**: Microsoft Power BI, Tableau, Metabase, Omni
